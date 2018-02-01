@@ -1,2 +1,2 @@
 # reslack
-Slack clone written in react
+Slack clone
