@@ -1,0 +1,27 @@
+{
+  "name": "reslack",
+  "version": "1.0.0",
+  "description": "Slack clone written in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnus81/reslack.git"
+  },
+  "author": "Magnus Edemalm <magnus.edemalm@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnus81/reslack/issues"
+  },
+  "homepage": "https://github.com/magnus81/reslack#readme",
+  "devDependencies": {
+    "babel-loader": "^5.3.3",
+    "react": "^16.2.0",
+    "webpack": "^3.10.0"
+  },
+  "dependencies": {
+    "react-dom": "^16.2.0"
+  }
+}
